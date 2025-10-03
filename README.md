@@ -8,7 +8,7 @@ Some IT shit
 Golang, Python, CI/CD
 
 - 💞️ I’m looking to collaborate on ...
-Find some knowledge
+Find some knowledge and get more money
 
 - 📫 How to reach me ...
 Please, don't
